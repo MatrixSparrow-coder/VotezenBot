@@ -1,0 +1,7 @@
+pyrogram>=2.0
+tgcrypto
+motor
+python-dotenv
+aiohttp
+pytz
+Pillow
